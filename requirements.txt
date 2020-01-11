@@ -25,4 +25,4 @@ motor==1.2
 gTTS==1.2.2
 langdetect==1.0.7
 
-vk_api==5.80
+vk_api>=6.2
